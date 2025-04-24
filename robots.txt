@@ -2,3 +2,6 @@ User-agent: *
 Disallow: /*?*
 Disallow: /index.html
 Sitemap: https://vilarby.github.io/sitemap.xml
+
+User-agent: Yandex
+Disallow: /
